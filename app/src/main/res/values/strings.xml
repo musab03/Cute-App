@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cute App</string>
+    <string name="please_touch_on_one_of_the_animal_icon">Please Touch on one of the Animal Icon</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="clear_text1">Clear Text1</string>
+</resources>
